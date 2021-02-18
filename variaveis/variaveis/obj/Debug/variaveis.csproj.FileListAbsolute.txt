@@ -1,0 +1,7 @@
+C:\Users\david\OneDrive\Área de Trabalho\DigitalInnovationOne - .NET\Curso - YOUTUBE\variaveis\variaveis\bin\Debug\variaveis.exe.config
+C:\Users\david\OneDrive\Área de Trabalho\DigitalInnovationOne - .NET\Curso - YOUTUBE\variaveis\variaveis\bin\Debug\variaveis.exe
+C:\Users\david\OneDrive\Área de Trabalho\DigitalInnovationOne - .NET\Curso - YOUTUBE\variaveis\variaveis\bin\Debug\variaveis.pdb
+C:\Users\david\OneDrive\Área de Trabalho\DigitalInnovationOne - .NET\Curso - YOUTUBE\variaveis\variaveis\obj\Debug\variaveis.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Área de Trabalho\DigitalInnovationOne - .NET\Curso - YOUTUBE\variaveis\variaveis\obj\Debug\variaveis.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Área de Trabalho\DigitalInnovationOne - .NET\Curso - YOUTUBE\variaveis\variaveis\obj\Debug\variaveis.exe
+C:\Users\david\OneDrive\Área de Trabalho\DigitalInnovationOne - .NET\Curso - YOUTUBE\variaveis\variaveis\obj\Debug\variaveis.pdb

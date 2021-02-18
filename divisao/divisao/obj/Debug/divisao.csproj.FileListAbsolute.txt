@@ -1,0 +1,2 @@
+C:\Users\david\OneDrive\Área de Trabalho\DigitalInnovationOne - .NET\Curso - YOUTUBE\divisao\divisao\obj\Debug\divisao.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Área de Trabalho\DigitalInnovationOne - .NET\Curso - YOUTUBE\divisao\divisao\obj\Debug\divisao.csproj.CoreCompileInputs.cache

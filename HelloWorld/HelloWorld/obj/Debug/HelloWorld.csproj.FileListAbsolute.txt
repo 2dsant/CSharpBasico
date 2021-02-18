@@ -1,0 +1,7 @@
+C:\Users\david\OneDrive\Área de Trabalho\DigitalInnovationOne - .NET\Curso - YOUTUBE\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\david\OneDrive\Área de Trabalho\DigitalInnovationOne - .NET\Curso - YOUTUBE\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\david\OneDrive\Área de Trabalho\DigitalInnovationOne - .NET\Curso - YOUTUBE\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\david\OneDrive\Área de Trabalho\DigitalInnovationOne - .NET\Curso - YOUTUBE\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Área de Trabalho\DigitalInnovationOne - .NET\Curso - YOUTUBE\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Área de Trabalho\DigitalInnovationOne - .NET\Curso - YOUTUBE\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\david\OneDrive\Área de Trabalho\DigitalInnovationOne - .NET\Curso - YOUTUBE\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

@@ -1,0 +1,7 @@
+C:\Users\david\OneDrive\Área de Trabalho\DigitalInnovationOne - .NET\Curso - YOUTUBE\entradaDeDados\entradaDeDados\bin\Debug\entradaDeDados.exe.config
+C:\Users\david\OneDrive\Área de Trabalho\DigitalInnovationOne - .NET\Curso - YOUTUBE\entradaDeDados\entradaDeDados\bin\Debug\entradaDeDados.exe
+C:\Users\david\OneDrive\Área de Trabalho\DigitalInnovationOne - .NET\Curso - YOUTUBE\entradaDeDados\entradaDeDados\bin\Debug\entradaDeDados.pdb
+C:\Users\david\OneDrive\Área de Trabalho\DigitalInnovationOne - .NET\Curso - YOUTUBE\entradaDeDados\entradaDeDados\obj\Debug\entradaDeDados.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Área de Trabalho\DigitalInnovationOne - .NET\Curso - YOUTUBE\entradaDeDados\entradaDeDados\obj\Debug\entradaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Área de Trabalho\DigitalInnovationOne - .NET\Curso - YOUTUBE\entradaDeDados\entradaDeDados\obj\Debug\entradaDeDados.exe
+C:\Users\david\OneDrive\Área de Trabalho\DigitalInnovationOne - .NET\Curso - YOUTUBE\entradaDeDados\entradaDeDados\obj\Debug\entradaDeDados.pdb
